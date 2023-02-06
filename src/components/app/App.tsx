@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
-import { Gentleman } from "../../gentleman/gentleman";
-import { GENTLEMEN } from "../../../mocks/mock";
+import { Gentleman } from "../gentleman/gentleman";
+import { GENTLEMEN } from "../../mocks/mock";
 
 export function App() {
   return (
